@@ -1,5 +1,5 @@
 # Data Science Bootcamp
-Projects I have completed during the Data Science Bootcamp at Spiced Academy in Berlin.
+I am currently enrolled in a 12-week full-time Data Science Bootcamp at Spiced Academy in Berlin. Here are the projects I complete each week:
 
-- week 1: Animation of a scatterplot of world fertility rate and life expectancy.
-- week 2: Classification of passenger survival on the Titanic.
+1. [Animation of a scatterplot of world fertility rate and life expectancy.](https://github.com/lorenanda/animated-scatterplot)
+2. Classification of passenger survival on the Titanic.
