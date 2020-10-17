@@ -3,4 +3,4 @@ Projects I completed in the Data Science Bootcamp at Spiced Academy in Berlin (2
 
 1. [Animation of a scatterplot of world fertility rate and life expectancy.](https://github.com/lorenanda/animated-scatterplot)
 2. [Classification of passenger survival on the Titanic.](https://github.com/lorenanda/titanic)
-3. [Prediction of demand for rental bikes](https://github.com/lorenanda/bike-demand-prediction/)
+3. [Prediction of bike sharing demand](https://github.com/lorenanda/bike-demand-prediction/)
