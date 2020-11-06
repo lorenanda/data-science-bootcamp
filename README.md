@@ -6,4 +6,4 @@ Projects I have completed in the Data Science Bootcamp at Spiced Academy in Berl
 3. [Prediction of bike sharing demand from weather conditions](https://github.com/lorenanda/bike-demand-prediction/)
 4. [Interactive prediction of a band from input lyrics](https://github.com/lorenanda/lyrics-classification)
 5. [Time series analysis and forecast of daily temperature in Berlin](https://github.com/lorenanda/weather-forecast)
-6. Dashboard built on a Postgres database and deployed on AWS
+6. [Dashboard built on a Postgres database and deployed on AWS](https://github.com/lorenanda/northwind-dashboard)
