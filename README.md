@@ -1,5 +1,5 @@
 # Data Science Bootcamp
-Projects I have completed in the Data Science Bootcamp at Spiced Academy in Berlin (28.09-18.12.2020).
+Projects I have completed in the Data Science Bootcamp at Spiced Academy in Berlin (09-12.2020).
 
 1. [Animated/interactive plots depicting world fertility rate and life expectancy](https://github.com/lorenanda/animated-scatterplot)
 2. [Classification of passenger survival on the Titanic](https://github.com/lorenanda/titanic)
