@@ -8,3 +8,4 @@ Projects I have completed in the Data Science Bootcamp at Spiced Academy in Berl
 5. 🌡️ [Time series analysis and forecast of daily temperature in Berlin](https://github.com/lorenanda/weather-forecast)
 6. 🐘 [Dashboard built on a Postgres database and deployed on AWS](https://github.com/lorenanda/northwind-dashboard)
 7. 🐳 [Docker pipeline for streaming tweets and posting them with a Slackbot](https://github.com/lorenanda/tweets-docker-pipeline)
+8. 🛒 [MCMC simulation of customer paths in a supermarket]()
