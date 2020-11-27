@@ -9,3 +9,4 @@ Projects I have completed in the Data Science Bootcamp at Spiced Academy in Berl
 6. 🐘 [Dashboard built on a Postgres database and deployed on AWS](https://github.com/lorenanda/northwind-dashboard)
 7. 🐳 [Docker pipeline for streaming tweets and posting them with a Slackbot](https://github.com/lorenanda/tweets-docker-pipeline)
 8. 🛒 [MCMC simulation of customer paths in a supermarket](https://github.com/lorenanda/Supermarket_MCMC_simulation)
+9. 👗 [Classification of clothes images with neural networks](https://github.com/lorenanda/fashion-mnist)
