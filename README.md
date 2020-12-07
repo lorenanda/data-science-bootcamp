@@ -11,3 +11,4 @@ Projects I have completed in the Data Science Bootcamp at Spiced Academy in Berl
 8. 🛒 [MCMC simulation of customer paths in a supermarket](https://github.com/lorenanda/Supermarket_MCMC_simulation)
 9. 👗 [Classification of clothes images with neural networks](https://github.com/lorenanda/fashion-mnist)
 10. 📽️ [Movie recommender system with a Flask web interface](https://github.com/lorenanda/movie-recommender)
+11. 🗣️ [Detection of emotions from speech with neural networks](https://github.com/lorenanda/speech-emotion-recogition)
