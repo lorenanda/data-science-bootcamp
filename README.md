@@ -10,3 +10,4 @@ Projects I have completed in the Data Science Bootcamp at Spiced Academy in Berl
 7. 🐳 [Docker pipeline for streaming tweets and posting them with a Slackbot](https://github.com/lorenanda/tweets-docker-pipeline)
 8. 🛒 [MCMC simulation of customer paths in a supermarket](https://github.com/lorenanda/Supermarket_MCMC_simulation)
 9. 👗 [Classification of clothes images with neural networks](https://github.com/lorenanda/fashion-mnist)
+10. 📽️ [Movie recommender system with a Flask web interface](https://github.com/lorenanda/movie-recommender)
